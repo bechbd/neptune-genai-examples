@@ -13,7 +13,7 @@ from llama_index.core import PromptTemplate
 
 KG_PERSIST_DIR = "storage_kg"
 VSS_PERSIST_DIR = "storage_vss"
-graph_identifier = "g-9ebsf6zpc2"
+graph_identifier = "INSERT GRAPH ID"
 max_triplets_per_chunk = 15
 doc_lst = [
     "https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-timestream-liveanalytics-fedramp-high-authorization-aws-govcloud-west-region/",
